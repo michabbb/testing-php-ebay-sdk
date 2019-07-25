@@ -1,0 +1,12 @@
+{
+  "require": {
+    "dts/ebay-sdk-php": "^18.0",
+    "kint-php/kint": "^2.2",
+    "shanethehat/pretty-xml": "^1.0"
+  },
+  "autoload": {
+    "classmap": [
+      "ebay_inventory_bulkupdatepricequantiy.php"
+    ]
+  }
+}

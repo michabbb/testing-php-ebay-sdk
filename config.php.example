@@ -1,0 +1,6 @@
+<?php
+
+$keys = [
+	'sandbox'     => false,
+	'oauthtoken' => 'xxxxxxxxxxxxx'
+];
