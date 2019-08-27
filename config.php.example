@@ -1,6 +1,11 @@
 <?php
 
 $keys = [
-	'sandbox'     => false,
-	'oauthtoken' => 'xxxxxxxxxxxxx'
+	'credentials' => [
+		'devId'  => 'xxxxxxxx',
+		'appId'  => 'xxxxxxxx',
+		'certId' => 'Xxxxxxxx',
+	],
+	'authToken'   => 'xxxxxxxxxxxxxxxxxxxxxx',
+	'sandbox'     => true
 ];

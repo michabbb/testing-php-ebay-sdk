@@ -6,7 +6,7 @@
   },
   "autoload": {
     "classmap": [
-      "ebay_inventory_bulkupdatepricequantiy.php"
+      "ebay_getMyeBaySelling.php"
     ]
   }
 }
